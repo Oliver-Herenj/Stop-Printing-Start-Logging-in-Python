@@ -1,0 +1,3 @@
+INFO (09/09/2025 02:09:43 PM): Hello, my name is Slim Shady! (Line: 12 [main.py])
+WARNING (09/09/2025 02:09:43 PM): Oh no! You caught me! (Line: 13 [main.py])
+INFO (09/09/2025 02:09:43 PM): This is from: "other_module.py" (Line: 4 [other_module.py])
